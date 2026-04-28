@@ -1,4 +1,4 @@
-Copyright 2025 Ruslan Ismailov (https://megafonts.store/gait/Lovzar/noh)
+Copyright 2025 Ruslan Ismailov (https://github.com/r3dtime/fonts/tree/main/Lovzar)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
