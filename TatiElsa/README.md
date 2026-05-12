@@ -16,6 +16,6 @@
    ```css
    @font-face {
      font-family: 'MyFont';
-     src: url('https://cdn.jsdelivr.net/gh/r3dtime/fonts@main/TatiElsa/TatiElsa.woff2') format('woff2');
+     src: url('https://cdn.jsdelivr.net/gh/r3dtime/fonts@main/TatiElsa/TatiElsa_Normal.woff2') format('woff2');
    }
    ```
