@@ -10,7 +10,7 @@
 - **Начертания:** Thin, ExtraLight, Light, Normal, Medium, SemiBold, Bold, ExtraBold, Black.
 
 ## 🚀 Установка
-1. Скачайте файлы из папки `fonts/TatiElsa` (формат `.ttf`).
+1. Скачайте файлы из папки `fonts/GaysultaniHava` (формат `.ttf`).
 2. Установите в систему (двойной клик на файл -> "Установить").
 3. Или подключите через CSS:
    ```css
