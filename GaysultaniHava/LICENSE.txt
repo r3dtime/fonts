@@ -1,0 +1,36 @@
+END USER LICENSE AGREEMENT (EULA)
+
+OWNERSHIP & CONTACT
+This Font Software is the exclusive property of Gaysultanova Hava (gaysultanova14@bk.ru). 
+All intellectual property rights, titles, and interests in and to the Font Software are reserved.
+
+COMMERCIAL USE
+Any use for profit-making projects, business activities, or brand identity requires a Commercial License. 
+To obtain a quote for commercial usage, please contact the owner directly at: gaysultanova14@bk.ru.
+
+
+1. GRANT OF LICENSE
+This license grants you a non-exclusive, non-transferable right to use the Font Software for Personal Use Only. 
+"Personal Use" refers to projects with no potential for financial gain, such as personal student work, gifts, 
+or private social media posts.
+
+2. PERMITTED USES
+You are permitted to use the Font Software in the following environments:
+Desktop: Installation on computers to create static images or documents.
+Web: Embedding via @font-face for personal websites or blogs.
+App/ePub: Embedding within non-commercial mobile applications or electronic publications.
+
+3. USER & DEVICE LIMITS
+There is no limit on the number of devices or users within your immediate personal household or for your individual personal use.
+
+4. RESTRICTIONS
+No Commercial Use: You may not use this font for any client work, advertising, logos for businesses, or products for sale.
+No Modifications: You are strictly prohibited from altering, converting, renaming, or editing the font files or their underlying code.
+No Redistribution: You may not share, sell, rent, sublicense, or distribute the font files to any third party.
+No Embedding for Production: You may not provide the font files to a commercial printer or developer 
+unless they have obtained their own license.
+
+5. TERMINATION
+This license is effective until terminated. Failure to comply with any of the terms above 
+will result in the immediate and automatic termination of this license. Upon termination, 
+you must destroy all copies of the Font Software in your possession.
